@@ -40,7 +40,7 @@ https://dummyjson.com/docs/products
 
 1. Clone the repository:
 
-   `git clone YOUR_GITHUB_REPOSITORY_URL`
+   `git clone https://github.com/drashti1407-asd/public-api-integration.git`
 
 2. Open the project folder:
 
